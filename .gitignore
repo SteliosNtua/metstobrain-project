@@ -1,7 +1,9 @@
 v2/dataset/*
 v2/models/*
-v2/params/*
-v2/results/*
+# v2/params/*
+# v2/results/*
 v2/catboost_info/*
 *DS_Store*
 *.log
+*.pyc
+*__pycache__
